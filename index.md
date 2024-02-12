@@ -1,4 +1,3 @@
-# Using headers
+# Image of Yaktocat
 
 
-I have made a pull request
