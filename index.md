@@ -1,3 +1,3 @@
-# Code in Python
-
-print(" hello world !!!")
+- [x] Turn on Github Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
